@@ -1,0 +1,11 @@
+http://192.168.150.109/udmattendance/login.php
+admin@gmail.com
+123
+
+udm notice
+test@gmail.com
+12345678
+
+udmadmin notice
+admin@gmail.com
+admin
